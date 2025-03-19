@@ -5,11 +5,19 @@ body {
     font-style: normal;
     text-align: center;
     padding: 10%;
-    background-color: #dde8d5;
+    background-color: #ebf5e1;
   }
 
   h1, h2, h3 {
     padding: 1%;
+  }
+
+  footer {
+    padding: 2%;
+    margin: 4%;
+    background-color: #50544b;
+    color:white;
+    border-radius: 10px;
   }
 
 
