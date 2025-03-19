@@ -12,12 +12,24 @@ body {
     padding: 1%;
   }
 
+  p {
+    margin-left: 10%;
+    margin-right: 10%;
+    padding:2%;
+  }
+
+  h3 {
+    font-size: medium;
+  }
+
   footer {
     padding: 2%;
     margin: 4%;
-    background-color: #50544b;
+    background-color: #595c56;
     color:white;
     border-radius: 10px;
+
+
   }
 
 
