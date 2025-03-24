@@ -35,3 +35,7 @@ img {
   padding: none;
 }
 
+a {
+  color: rgb(182, 235, 216);
+  font-weight: bold;
+}
