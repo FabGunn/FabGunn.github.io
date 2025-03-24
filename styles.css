@@ -29,8 +29,9 @@ body {
     color:white;
     border-radius: 10px;
 
-
   }
 
-
+img {
+  padding: none;
+}
 
